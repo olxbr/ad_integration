@@ -26,8 +26,8 @@ Nem todas as categorias de anúncios na OLX são suportadas pelas integrações 
 | Imóveis | Comércio e indústria | [Sim](json/real_estate/README.md) | [Sim](xml/real_estate/README.md) | [Sim](api/real_estate/README.md) |
 | Autos e peças | Carros vans e utilitários | Sim<sup>1</sup> | Não | [Sim](api/autos/README.md) |
 | Autos e peças | Motos | Sim<sup>1</sup> | Não | [Sim](api/autos/README.md) |
-| Autos e peças | Ônibus | Sim<sup>1</sup> | Não | Sim<sup>1</sup> |
-| Autos e peças | Caminhões | [Sim](json/auto/README.md) | Não | Sim<sup>1</sup> |
+| Autos e peças | Ônibus | Sim<sup>1</sup> | Não | [Sim](api/autos/README.md) |
+| Autos e peças | Caminhões | [Sim](json/auto/README.md) | Não | [Sim](api/autos/README.md) |
 | Autos e peças | Barcos e aeronaves | Sim<sup>1</sup> | Não | Sim<sup>1</sup> |
 | Peças e acessórios | Carros vans e utilitários | [Sim](json/autoparts/README.md) | Não | [Sim](api/autoparts/README.md) |
 | Peças e acessórios | Motos | [Sim](json/autoparts/README.md) | Não | [Sim](api/autoparts/README.md) |

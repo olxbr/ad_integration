@@ -12,7 +12,7 @@ Para importação da categoria de Autopeças, é necessário informar a `categor
 
 ### Parâmetros específicos por subcategoria
 
-Cada subcategoria de Autopeças tem seu conjunto de parâmetros e valores específicos. Para isso, você deverá considerar os parâmetros específicos para cada subcategoria, bem como os [parâmetros gerais para quaisquer anúncio na OLX](/api/README.md).
+Cada subcategoria de Autopeças tem seu conjunto de parâmetros e valores específicos. Para isso, você deverá considerar os parâmetros específicos para cada subcategoria, bem como os [parâmetros gerais para quaisquer anúncio na OLX](/api/import.md).
 
 Exemplos de JSONs completos de cada subcategoria estão disponíveis na página de cada subcategoria.
 
