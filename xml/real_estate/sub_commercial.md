@@ -21,6 +21,7 @@ Para esta subcategoria, é necessário preencher o parâmetro `<SubTipoImovel>` 
 | `Hotel Residencial` | Hotel |
 | `Motel` | Hotel |
 | `Pousada / Chalé` | Hotel |
+| `Pousada` | Hotel |
 | `Barracão Comercial` | Loja Comercial |
 | `Centro Comercial` | Loja Comercial |
 | `Comercial` | Loja Comercial |
