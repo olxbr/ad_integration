@@ -91,7 +91,7 @@ Aqui está um exemplo de XML para inserção ou edição de anúncios na subcate
             <QtdDormitorios>2</QtdDormitorios>
             <QtdVagas>2</QtdVagas>
             <QtdBanheiros>2</QtdBanheiros>
-            <AreaTotal>60</AreaUtil>
+            <AreaTotal>60</AreaTotal>
             <Observacao>Apartamentos com dois dormitórios, suíte e vaga dupla e 1 dormitório com vaga e lavabo.\nAcabamento muito acima da média, apartamentos entregues com porcelanato nas áreas frias e laminado na sala e quartos, medidores de água e gás instalados, gesso, mármore e granito nos banheiros e cozinha. Todos os apartamentos possuem churrasqueira na cozinha. - Ref.: 17-DU65009</Observacao>
             <Fotos>
                 <Foto>
