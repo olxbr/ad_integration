@@ -25,7 +25,6 @@ Para a montagem do XML, é necessário respeitar parâmetros genéricos e espec�
 | `<Observacao>` | Descrição com até 6 mil caracteres | Sim | Descrição do anúncio. Não aceita tags HTML. Para quebra de linha, use a tag `\n` |
 | `<PrecoVenda>` | Número inteiro, sem parte decimal, sem separador de milhares | Não | Valor de venda do imóvel.  |
 | `<PrecoLocacao>` | Número inteiro, sem parte decimal, sem separador de milhares | Não | Valor de aluguel do imóvel. O `<PrecoLocacao>` será ignorado, caso o campo `<PrecoVenda>` seja preenchido também. |
-| `<PrecoLocacaoTemporada>` | Número inteiro, sem parte decimal, sem separador de milhares | Não | Valor de aluguel por temporada do imóvel. O `<PrecoLocacaoTemporada>` será ignorado, se `<PrecoLocacao>` ou `<PrecoVenda>` seja preenchido também. |
 | `<PrecoCondominio>` | Número inteiro, sem parte decimal, sem separador de milhares  | Não | Valor do condomínio do imóvel. |
 | `<ValorIPTU>` | Número inteiro, sem parte decimal, sem separador de milhares | Não | Valor mensal do IPTU do imóvel.  |
 | `<AreaTotal>` | Número inteiro, sem parte decimal | Não | Tamanho em metros quadrados do imóvel.  |
